@@ -1,6 +1,6 @@
 # README.md
 
-```html
+
 <div align="center">
   <h1>
     <strong>Hey</strong>
@@ -231,4 +231,4 @@ Building modern frontend applications with HTML, CSS, Tailwind CSS, JavaScript, 
 💜 Built with passion by <strong>Paul Oluyomi Ajide</strong><br>
 Frontend Developer • Lifelong Learner • Open to Collaborations
 </h6>
-```
+
