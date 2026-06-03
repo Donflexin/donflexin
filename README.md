@@ -211,6 +211,10 @@ src="https://github-profile-trophy.vercel.app/?username=Donflexin&theme=tokyonig
 <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.instagram.com/donflexin">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" />
+</a>
+
 </p>
 
 <p align="center">
